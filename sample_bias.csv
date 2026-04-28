@@ -1,0 +1,7 @@
+name,gender,age,income,decision
+Alice,Female,25,50000,approved
+Bob,Male,30,60000,approved
+Clara,Female,28,45000,rejected
+David,Male,35,70000,approved
+Eva,Female,40,52000,rejected
+Frank,Male,45,80000,approved
